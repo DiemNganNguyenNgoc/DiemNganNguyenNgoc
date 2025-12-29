@@ -50,12 +50,7 @@
 - Integrated RESTful APIs and optimized UI performance
 - Collaborated with backend team & fixed UI/logic bugs
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
+--
 
 ## 📫 Contact
 
