@@ -43,7 +43,7 @@
 
 ## 💼 Experience
 
-**Frontend Developer Intern – TELAVIN Co., Ltd.**  
+**Frontend Developer Intern – TEL4VN Co., Ltd.**  
 🗓️ Jun 2025 – Oct 2025
 
 - Built responsive UI with **NextJS & TypeScript**
